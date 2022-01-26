@@ -1,5 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Lato);
 
+* {
+    margin: 5px;
+}
+
 html, body, #root {
     margin: 0px;
     height: 100%;
@@ -9,4 +13,8 @@ html, body, #root {
 
 label {
     display:block;
+}
+
+.friend{
+    margin: 4%;
 }
